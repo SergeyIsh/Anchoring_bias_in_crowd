@@ -1,1 +1,1 @@
-This is an official github repository for my bachelor thesis "Sailing Through Bias: Exploring Anchoring Bias in Human Data Labeling on Crowdsourcing Platforms"
+This is an official github repository for my bachelor thesis "Sailing Through Bias: Exploring Anchoring Bias in Human Data Labeling on Crowdsourcing Platforms". This is a subset of Ustalov D., Pavlichenko N. IMDB-WIKI-SbS: An Evaluation Dataset for Crowdsourced Pairwise Comparisons dataset, with extra labels I get on Toloka.
